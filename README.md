@@ -74,7 +74,7 @@ Custom label:
 
 ## Useful links
 
-[Windows Exporter](https://github.com/prometheus-community/windows_exporter)
+[Linux Node Exporter](https://github.com/prometheus/node_exporter)
 
 [Installing Prometheus using Docker](https://prometheus.io/docs/prometheus/latest/installation/#using-docker)
 
