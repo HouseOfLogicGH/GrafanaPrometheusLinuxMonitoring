@@ -68,8 +68,9 @@ password = admin
 
 Custom label:
 
+```
 {{target}}
-
+```
 
 ## Useful links
 
