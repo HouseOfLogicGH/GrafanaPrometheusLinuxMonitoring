@@ -3,7 +3,7 @@
 Basic Monitoring of a Linux Server using node exporter
 
 ## Instructions
-These instructions accompany the [YouTube instructional video by House of Logic](https://youtu.be/).
+These instructions accompany the [YouTube instructional video by House of Logic](https://youtu.be/9LGIcHf2r6o).
 
 The Linux Node Exporter can be found [here.](https://github.com/prometheus/node_exporter).
 
